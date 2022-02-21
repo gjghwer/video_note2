@@ -1,0 +1,8 @@
+{
+"to_new_app":0,
+"appname":"",
+"xiaoshuoname":"",
+"ad_privider":2,
+"check_version":1,
+"check_state":2
+}

@@ -5,5 +5,5 @@
 "ad_privider":2,
 "check_version":9,
 "check_state":1,
-"admob_check":2
+"admob_check":1
 }

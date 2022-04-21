@@ -6,5 +6,5 @@
 "check_version":12,
 "check_state":1,
 "admob_check":1,
-"can_use_new":true
+"can_use_new":false
 }

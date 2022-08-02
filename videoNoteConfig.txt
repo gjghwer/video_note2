@@ -1,6 +1,6 @@
 {
 "to_new_app":1,
-"appname":"",
+"appname":"com.cwl.bookshelf3",
 "xiaoshuoname":"com.cwl.bookshelf3",
 "ad_privider":2,
 "check_version":12,

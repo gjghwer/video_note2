@@ -1,7 +1,7 @@
 {
-"to_new_app":0,
-"appname":"com.wtyt.tiktok",
-"xiaoshuoname":"com.cwl.bookshelf3",
+"to_new_app":1,
+"appname":"com.online.videonote3",
+"xiaoshuoname":"io.book.app3",
 "ad_privider":2,
 "check_version":12,
 "check_state":1,
